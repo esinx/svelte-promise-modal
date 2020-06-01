@@ -5,7 +5,7 @@ Yeah you've seen lots of modals. But have you seen a modal that returns a promis
 ## Installation
 
 ```
-npm i -D svelte-promie-modal
+npm i -D svelte-promise-modal
 ```
 
 ## How to
