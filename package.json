@@ -1,6 +1,6 @@
 {
     "name": "svelte-promise-modal",
-    "version": "0.7.0",
+    "version": "0.7.0-1",
     "svelte": "src/index.js",
     "module": "dist/index.mjs",
     "main": "dist/index.js",
@@ -22,10 +22,10 @@
     },
     "keywords": [
         "svelte",
-        "step",
-        "step by step",
-        "procedure",
-        "form"
+        "promise",
+        "modal",
+        "ask",
+        "alert"
     ],
     "files": [
         "src",
